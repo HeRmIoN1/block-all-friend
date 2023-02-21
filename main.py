@@ -13,3 +13,4 @@ def blockAllFriends(token):
             json=json,
         )
         print(f"{Fore.WHITE}[{Fore.LIGHTCYAN_EX}f{Fore.WHITE}] Friend Has been blocked| {i['id']}")
+        #by hermione
